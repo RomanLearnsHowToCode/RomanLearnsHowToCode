@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Roman
 - 👀 I’m interested in computer science related topics such as robotics, artificial intelligence and game development.
-- 🌱 I’m currently learning I prefer C++, but my main experience is with Unreal Engine and using SDL 2.0
-- 💞️ I’m looking to collaborate on a project.. 
-- 📫 How to reach me drop me message
+- 🌱 I’m currently learning C++ and wish to specialise on this language, my main experience is with Unreal Engine and using SDL 2.0
+- 💞️ I’m looking for a full time job opportunity, junior / graduate positions are my target, however I am very dedicated to work, so I can take a bit more. 
+- 📫 How to reach me drop me a message, contact me on linked in: https://www.linkedin.com/in/roman-l-b38653170/ , drop me an email: roman.liewehr@hotmail.com 
 
 - TO LOOK INTO MY PROJECTS PLEASE NAVIGATE TO REPOSITORIES
 
