@@ -6,11 +6,14 @@
 
 - TO LOOK INTO MY PROJECTS PLEASE NAVIGATE TO REPOSITORIES
 
+UPDATE 03/06/2021
+Hi, I am trying to push all my Unreal Engine projects here in a way, that they'll be actually working! This is a bit of a hassle, however. My projects are often on the larger size and this action might require Git Hub LARGE FILES approach.
+
 UPDATE 02/06/2021 
 !! PLEASE BE AWARE I have just finished my University course and I am working on my repositories, I am uploading them as much as I can to provide a code to browse in for a potential human resource. 
 
-University related repositories are starting with CI and three numbers, 4xx = year one, 5xx = year two, 6xx = year three
-Projects without CIXXX prefix are my personal projects
+University related repositories are starting with CI and three numbers, e.g, CI 4xx = year one, CI 5xx = year two, CI 6xx = year three
+Projects without CIXXX prefix are my personal projects and will be marked with additional information.
 
 <!---
 RomanLearnsHowToCode/RomanLearnsHowToCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
