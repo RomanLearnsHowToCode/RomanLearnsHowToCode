@@ -1,10 +1,13 @@
 - 👋 Hi, I’m @Roman
 - 👀 I’m interested in computer science related topics such as robotics, artificial intelligence and game development.
-- 🌱 I’m currently learning C++ and wish to specialise on this language, my main experience is with Unreal Engine and using SDL 2.0
+- 🌱 I’m currently learning JavaScript and related frameworks.
 - 💞️ I’m looking for a full time job opportunity, junior / graduate positions are my target, however I am very dedicated to work, so I can take a bit more. 
 - 📫 How to reach me drop me a message, contact me on linked in: https://www.linkedin.com/in/roman-l-b38653170/ , drop me an email: roman.liewehr@hotmail.com 
 
 - TO LOOK INTO MY PROJECTS PLEASE NAVIGATE TO REPOSITORIES
+
+UPDATE 23/01/2022
+Hi guys, I am slowly starting to produce projects on weekly basis, I cannot code much, since my current emploment is time demanding, but this could change in near future.. I am looking for junior / graduate Q&A, front-end web developer positions, I am willing to relocate for work within the UK.
 
 UPDATE 03/06/2021
 Hi, I am trying to push all my Unreal Engine projects here in a way, that they'll be actually working! This is a bit of a hassle, however. My projects are often on the larger size and this action might require Git Hub LARGE FILES approach.
