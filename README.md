@@ -1,10 +1,13 @@
 - 👋 Hi, I’m @Roman
 - 👀 I’m interested in computer science related topics such as robotics, artificial intelligence and game development.
-- 🌱 I’m currently learning JavaScript and related frameworks.
+- 🌱 I’m currently learning JavaScript and related frameworks, on 11/02/2022 I have added C# & .NET into my new learning path.
 - 💞️ I’m looking for a full time job opportunity, junior / graduate positions are my target, however I am very dedicated to work, so I can take a bit more. 
 - 📫 How to reach me drop me a message, contact me on linked in: https://www.linkedin.com/in/roman-l-b38653170/ , drop me an email: roman.liewehr@hotmail.com 
 
 - TO LOOK INTO MY PROJECTS PLEASE NAVIGATE TO REPOSITORIES
+
+UPDATE 11/02/2022
+As I have promised previously I have also delivered, there are now many JavaScript micro projects, these will be added eventually on my new react based portfolio website, I am starting to be busy with interviews etc, from today I have added C# & .NET into mix.
 
 UPDATE 23/01/2022
 Hi guys, I am slowly starting to produce projects on weekly basis, I cannot code much, since my current emploment is time demanding, but this could change in near future.. I am looking for junior / graduate Q&A, front-end web developer positions, I am willing to relocate for work within the UK.
