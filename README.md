@@ -4,6 +4,8 @@
 - 💞️ I’m looking for a full time job opportunity, junior / graduate positions are my target, however I am very dedicated to work, so I can take a bit more. 
 - 📫 How to reach me drop me a message, contact me on linked in: https://www.linkedin.com/in/roman-l-b38653170/ , drop me an email: roman.liewehr@hotmail.com 
 
+- Readme Update
+
 - TO LOOK INTO MY PROJECTS PLEASE NAVIGATE TO REPOSITORIES
 
 UPDATE 11/02/2022
