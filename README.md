@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Roman
+- 👋 Hi, I’m Roman
 - 👀 I’m interested in computer science related topics such as robotics, artificial intelligence, robotics and game development, my dream path would be to become a part   of medical industry.
 - 🌱 I’m currently learning JavaScript and related frameworks, on 11/02/2022 I have added C# & .NET into my new learning path.
 - 💞️ I’m looking for a full time job opportunity, junior / graduate positions are my target, however I am very dedicated to work, so I can take a bit more. 
